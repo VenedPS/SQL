@@ -1,0 +1,10 @@
+Biology_This course centers on the study of living things. Students will focus on life from a range of perspectives, including microscopic life to the interdependence between organisms.
+Chemistry_This course explores chemistry as it relates to real-life situations and to our interaction with the environment. The emphasis is on chemistry as a study of change.
+Physics_This is an introductory conceptual and applied course in physics based upon the scientific hierarchy of teaching physics.
+Economics_Students master fundamental economic concepts, applying the tools (graphs, statistics, equations) from other subject areas to the understanding of operations and institutions of economic systems.
+Botany_This is an introductory conceptual and applied course in botany and will emphasize the relationship between plants, society, and the rest of our environment.
+Calculus_In this college-level course students demonstrate knowledge of both the formal definition and the graphical interpretation of limit of values of functions.
+Geometry_Students focus on next critical areas: establish criteria for congruence of triangles based on rigid motions and establish criteria for similarity of triangles based on dilations and proportional reasoning.
+History_Students study the major turning points that shaped the modern world, from 4000 BC through the present.
+English_Students learn to be critical thinkers through examination of a variety of texts and writing processes.
+Psychology_This course introduces the field of psychology and its basic concepts, theories, research methods, and contributions to the understanding of human behavior.
